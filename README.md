@@ -1,10 +1,10 @@
-Olá, sou o Gabriel Motta!
+Hi, I'm Gabriel Motta!
 
-📚 - Sou aluno na Universidade Federal da Bahia no curso de Bacharelado Interdisciplinar em Ciência e Tecnologia.
+📚 - I am a student at UFBA of the Interdisciplinary Bachelor's Degree in Science and Technology.
 <br>
-💻 - Atualmente estou estudando JavaScript.
+💻 - I'm currently studying JavaScript.
 <br>
-👨‍🏫 - Possuo maior proficiência em Python.
+👨‍🏫 - I have more proficiency in Python.
 <br>
 <hr>
 <div align="center" dir="auto">
