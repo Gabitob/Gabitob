@@ -1,4 +1,4 @@
-Olá, sou o Gabitob!
+Olá, sou o Gabriel Motta!
 
 📚 - Sou aluno na Universidade Federal da Bahia no curso de Bacharelado Interdisciplinar em Ciência e Tecnologia.
 <br>
