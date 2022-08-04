@@ -2,7 +2,7 @@ Hi, I'm Gabriel Motta!
 
 📚 - I am a student at UFBA of the Interdisciplinary Bachelor's Degree in Science and Technology.
 <br>
-💻 - I'm currently studying JavaScript.
+💻 - I'm currently studying React.
 <br>
 👨‍🏫 - I have more proficiency in Python.
 <br>
