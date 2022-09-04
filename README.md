@@ -6,6 +6,9 @@ Hi, I'm Gabriel Motta!
 <br>
 👨‍🏫 - I have more proficiency in Python.
 <br>
+Some websites I created:
+https://gecstore.com
+https://engenhari.com.br
 <hr>
 <div align="center" dir="auto">
   <a href="https://github.com/Gabitob">
