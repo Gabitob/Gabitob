@@ -5,7 +5,8 @@ Hi, I'm Gabriel Motta!
 💻 - I'm currently studying React.
 <br>
 👨‍🏫 - I have more proficiency in Python.
-<br>
+<br><br>
+<hr>
 Some websites I created:
 <br>
 https://gecstore.com
@@ -27,6 +28,14 @@ https://gabitob.github.io/Gerador-De-Senhas/
 https://gabitob.github.io/Lampada-Magica/
 <br>
 https://gabitob.github.io/Link-Tree/
+<br>
+https://gabitob.github.io/Shadow-Dog-Animation/
+<br>
+https://gabitob.github.io/Navigation-Menu-Indicator/
+<br>
+https://gabitob.github.io/Dropdown-Menu/
+<br>
+https://gabitob.github.io/Calculadora-IMC/
 
 <hr>
 <div align="center" dir="auto">
