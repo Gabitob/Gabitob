@@ -5,7 +5,7 @@ Hi, I'm Gabriel Motta!
 💻 - I'm currently studying React.
 <br>
 👨‍🏫 - I have more proficiency in Python.
-<br><br>
+<br>
 <hr>
 Some websites I created:
 <br>
