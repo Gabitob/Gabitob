@@ -14,9 +14,16 @@ https://engenhari.com.br
 <br>
 https://gabitob.github.io/Semana-Front-End-Mundo-Invertido-DIO/
 <br>
+https://gabitob.github.io/Minigame-Among-Us/
+<br>
 https://gabitob.github.io/Pokedex/
 <br>
 https://gabitob.github.io/Animated-Profile-Card/
+<br>
+https://gabitob.github.io/Gerador-De-Senhas/
+<br>
+https://gabitob.github.io/Lampada-Magica/
+<br>
 
 <hr>
 <div align="center" dir="auto">
