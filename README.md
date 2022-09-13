@@ -38,6 +38,8 @@ https://gabitob.github.io/Navigation-Menu-Indicator/
 https://gabitob.github.io/Dropdown-Menu/
 <br>
 https://gabitob.github.io/Calculadora-IMC/
+<br>
+https://gabitob.github.io/Calculadora-De-Media/
 
 <hr>
 <div align="center" dir="auto">
