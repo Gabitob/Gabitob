@@ -40,6 +40,8 @@ https://gabitob.github.io/Dropdown-Menu/
 https://gabitob.github.io/Calculadora-IMC/
 <br>
 https://gabitob.github.io/Calculadora-De-Media/
+<br>
+https://gabitob.github.io/Conversor-Dolar-Real/
 
 <hr>
 <div align="center" dir="auto">
