@@ -9,10 +9,6 @@ Hi, I'm Gabriel Motta!
 <hr>
 Some websites I created:
 <br>
-https://gecstore.com
-<br>
-https://engenhari.com.br
-<br>
 https://gabitob.github.io/Semana-Front-End-Mundo-Invertido-DIO/
 <br>
 https://gabitob.github.io/Workshop-Reup/
