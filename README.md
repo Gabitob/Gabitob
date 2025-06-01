@@ -1,8 +1,9 @@
 Hi, I'm Gabriel Motta!
+This is my channel on youtube https://www.youtube.com/@MottaProg
 
 📚 - I am a student at UFBA of the Interdisciplinary Bachelor's Degree in Science and Technology.
 <br>
-💻 - I'm currently studying React.
+💻 - I'm currently studying Node.
 <br>
 👨‍🏫 - I have more proficiency in Python.
 <br>
