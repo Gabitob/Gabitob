@@ -11,7 +11,7 @@ This is my channel on youtube https://www.youtube.com/@MottaProg
 <hr>
 Some websites I created:
 <br>
-https://gabitob.github.io/Semana-Front-End-Mundo-Invertido-DIO/](https://gabitob.github.io/TierList-Anne-Gabi/
+https://gabitob.github.io/TierList-Anne-Gabi/
 <br>
 
 <hr>
