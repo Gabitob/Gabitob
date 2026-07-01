@@ -16,8 +16,8 @@ Você pode conferir todos os meus projetos detalhados e interagir comigo direto 
 
 ## 📂 Projetos em Destaque
 - 🃏 [Anime Card Creator](https://gabitob.github.io/Anime-Card-Creator/) - Crie suas próprias cartas de anime.
-- 🧮 [Calculadora LDI](https://gabitob.github.io/Calculadora-LDI-Versao_Web/) - Ferramenta de cálculo ágil.
-- 🎮 [Mouse Destroyer](https://gabitob.github.io/Mouse-Destroyer/) - Teste seus reflexos neste mini-game.
+- 🧮 [Calculadora LDI](https://gabitob.github.io/Calculadora-LDI-Versao_Web/) - Ferramenta de cálculo ágil para Limites, Derivadas e Integrais.
+- 🎮 [Mouse Destroyer](https://gabitob.github.io/Mouse-Destroyer/) - Mini-game experimental.
 - 🌲 [Link Tree Profile](https://gabitob.github.io/Link-Tree-Profile/) - Centralizador de links responsivo.
 
 <hr>
