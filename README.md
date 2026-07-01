@@ -1,29 +1,24 @@
-Hi, I'm Gabriel Motta!
+# Olá, sou Gabriel Motta!👋
 <br>
-This is my channel on youtube https://www.youtube.com/@MottaProg
+Sou um desenvolvedor front-end focado em criar aplicações web interativas, jogos de navegador e ferramentas utilitárias visuais.
+<br>
+Esse é meu canal do youtube: https://www.youtube.com/@MottaProg
 
-📚 - I am a student at UFBA of the Interdisciplinary Bachelor's Degree in Science and Technology.
-<br>
-💻 - I'm currently studying LLM.
-<br>
-👨‍🏫 - I have more proficiency in Python.
-<br>
 <hr>
-Some websites I created:
-<br>
-https://gabitob.github.io/TierList-Anne-Gabi/
-<br>
-https://gabitob.github.io/Link-Tree-Profile/
-<br>
-https://gabitob.github.io/Mouse-Destroyer/
-<br>
-https://gabitob.github.io/Calculadora-LDI-Versao_Web/
-<br>
-https://gabitob.github.io/Anime-Card-Creator/
-<br>
-https://gabitob.github.io/Site-Portifolio/
-<br>
 
+## 🚀 Meu Portfólio Principal
+Você pode conferir todos os meus projetos detalhados e interagir comigo direto no meu **[Site Portfólio](https://gabitob.github.io/Site-Portifolio/)**.
+
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** HTML5, CSS3, JavaScript (ES6+), Pyhton, TypeScript, C++
+- **Conceitos:** Manipulação de DOM, Jogos Web, Interfaces Responsivas, Aplicações SPA Single Page
+- **Ferramentas:** Git, GitHub, GitHub Pages
+
+## 📂 Projetos em Destaque
+- 🃏 [Anime Card Creator](https://gabitob.github.io/Anime-Card-Creator/) - Crie suas próprias cartas de anime.
+- 🧮 [Calculadora LDI](https://gabitob.github.io/Calculadora-LDI-Versao_Web/) - Ferramenta de cálculo ágil.
+- 🎮 [Mouse Destroyer](https://gabitob.github.io/Mouse-Destroyer/) - Teste seus reflexos neste mini-game.
+- 🌲 [Link Tree Profile](https://gabitob.github.io/Link-Tree-Profile/) - Centralizador de links responsivo.
 
 <hr>
 <div align="center" dir="auto">
