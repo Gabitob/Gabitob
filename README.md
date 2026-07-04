@@ -4,7 +4,7 @@ Sou um desenvolvedor front-end focado em criar aplicações web interativas, jog
 <br>
 Esse é meu canal do youtube: https://www.youtube.com/@MottaProg
 
-<hr>
+---
 
 ## 🚀 Meu Portfólio Principal
 Você pode conferir todos os meus projetos detalhados e interagir comigo direto no meu **[Site Portfólio](https://gabitob.github.io/Site-Portifolio/)**.
