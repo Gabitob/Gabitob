@@ -19,6 +19,7 @@ Você pode conferir todos os meus projetos detalhados e interagir comigo direto 
 - 🧮 [Calculadora LDI](https://gabitob.github.io/Calculadora-LDI-Versao_Web/) - Ferramenta de cálculo ágil para Limites, Derivadas e Integrais.
 - 🎮 [Mouse Destroyer](https://gabitob.github.io/Mouse-Destroyer/) - Mini-game experimental.
 - 🌲 [Link Tree Profile](https://gabitob.github.io/Link-Tree-Profile/) - Centralizador de links responsivo.
+- 💈 [Barbearia Motta](https://gabitob.github.io/Barbearia-Motta/) - Landing page modelo para agendamentos e serviços de barbearia.
 
 <hr>
 <div align="center" dir="auto">
