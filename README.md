@@ -20,6 +20,7 @@ Você pode conferir todos os meus projetos detalhados e interagir comigo direto 
 - 🎮 [Mouse Destroyer](https://gabitob.github.io/Mouse-Destroyer/) - Mini-game experimental.
 - 🌲 [Link Tree Profile](https://gabitob.github.io/Link-Tree-Profile/) - Centralizador de links responsivo.
 - 💈 [Barbearia Motta](https://gabitob.github.io/Barbearia-Motta/) - Landing page modelo para agendamentos e serviços de barbearia.
+- 🔍[Web Scraper](https://web-scraper-page.onrender.com) - Analiza página, coleta as informações e retorna os resultados para o usuário.
 
 ---
 <div align="center">
