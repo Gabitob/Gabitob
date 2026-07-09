@@ -27,10 +27,11 @@ Você pode conferir todos os meus projetos detalhados e interagir comigo direto 
 ---
 <div align="center">
   <a href="https://github.com/Gabitob">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabitob&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabitob&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
+    <img height="180" src="https://vercel.app" />
+    <img height="180" src="https://vercel.app" />
   </a>
 </div>
+
 
 <div align="center" style="display: inline-block;"><br>
   <img alt="Gabitob-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <strong>--</strong>
