@@ -22,6 +22,7 @@ Você pode conferir todos os meus projetos detalhados e interagir comigo direto 
 - 💈 [Barbearia Motta](https://gabitob.github.io/Barbearia-Motta/) - Landing page modelo para agendamentos e serviços de barbearia.
 - 🔍[Web Scraper](https://web-scraper-page.onrender.com) - Analiza página, coleta as informações e retorna os resultados para o usuário.
 - 🔢[Sudoku Generator](https://gabitob.github.io/Sudoku-Gen/) - Gera um sudoku aleatório e funcional para passar o tempo.
+- ゴ[Jojo Part 7 Page](https://gabitob.github.io/Jojo7-Countdown/) - Página interativa de contagem regressiva para lançamento de Jojo Parte 7.
 
 ---
 <div align="center">
