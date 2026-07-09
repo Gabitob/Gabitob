@@ -26,12 +26,17 @@ Você pode conferir todos os meus projetos detalhados e interagir comigo direto 
 
 ---
 <div align="center">
-  <a href="https://github.com">
-    <img height="180" src="https://vercel.app" />
-    <img height="180" src="https://vercel.app" />
+  <a href="https://github.com/Gabitob">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=Gabitob&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabitob&layout=compact&langs_count=8&theme=tokyonight"
+    />
   </a>
 </div>
-
 
 
 
