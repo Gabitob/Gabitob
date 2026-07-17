@@ -9,10 +9,13 @@ Esse é meu canal do youtube: https://www.youtube.com/@MottaProg
 ## 🚀 Meu Portfólio Principal
 Você pode conferir todos os meus projetos detalhados e interagir comigo direto no meu **[Site Portfólio](https://gabitob.github.io/Site-Portifolio/)**.
 
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** HTML5, CSS3, JavaScript (ES6+), Pyhton, TypeScript, C++
-- **Conceitos:** Manipulação de DOM, Jogos Web, Interfaces Responsivas, Aplicações SPA Single Page
-- **Ferramentas:** Git, GitHub, GitHub Pages
+### 🛠️ Tecnologias e Ferramentas
+
+* **Linguagens:** HTML5, CSS3, JavaScript (ES6+), Python, TypeScript, C++, Kotlin
+* **Conceitos:** Desenvolvimento Mobile Nativo, Manipulação de DOM, Jogos Web, Interfaces Responsivas, Aplicações SPA, APIs REST
+* **Backend & Cloud:** Firebase (Authentication, Firestore, Hosting)
+* **Ferramentas & IDEs:** Android Studio, Git, GitHub, GitHub Pages
+
 
 ## 📂 Projetos em Destaque
 - 🃏 [Anime Card Creator](https://gabitob.github.io/Anime-Card-Creator/) - Crie suas próprias cartas de anime.
