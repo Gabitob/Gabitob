@@ -12,8 +12,8 @@ Você pode conferir todos os meus projetos detalhados e interagir comigo direto 
 ### 🛠️ Tecnologias e Ferramentas
 
 * **Linguagens:** HTML5, CSS3, JavaScript (ES6+), Python, TypeScript, C++, Kotlin
-* **Conceitos:** Desenvolvimento Mobile Nativo, Manipulação de DOM, Jogos Web, Interfaces Responsivas, Aplicações SPA, APIs REST
-* **Backend, Cloud & Bancos de Dados:** MySQL, Firebase (Authentication, Firestore, Hosting), Render, Hostinger
+* **Conceitos:** Desenvolvimento Mobile Nativo, Manipulação de DOM, Jogos Web, Interfaces Responsivas, Aplicações SPA, APIs REST, Desenvolvimento de Bots (Discord)
+* **Backend, Cloud & Bancos de Dados:** Node.js, MySQL, Firebase (Authentication, Firestore, Hosting), Render, Hostinger
 * **DevOps & IA Aplicada:** Docker, Ollama, LM Studio, Odysseus AI, Devin AI
 * **Ferramentas, IDEs & CMS:** VS Code, PyCharm, Android Studio, WordPress, Git, GitHub, GitHub Pages
 
