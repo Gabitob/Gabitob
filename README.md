@@ -13,8 +13,8 @@ Você pode conferir todos os meus projetos detalhados e interagir comigo direto 
 
 * **Linguagens:** HTML5, CSS3, JavaScript (ES6+), Python, TypeScript, C++, Kotlin
 * **Conceitos:** Desenvolvimento Mobile Nativo, Manipulação de DOM, Jogos Web, Interfaces Responsivas, Aplicações SPA, APIs REST
-* **Backend & Cloud:** Firebase (Authentication, Firestore, Hosting), Render
-* **Ferramentas & IDEs:** Android Studio, Git, GitHub, GitHub Pages
+* **Backend, Cloud & Hospedagem:** Firebase (Authentication, Firestore, Hosting), Render, Hostinger
+* **Ferramentas, IDEs & CMS:** Android Studio, WordPress, Git, GitHub, GitHub Pages
 
 
 ## 📂 Projetos em Destaque
