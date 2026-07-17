@@ -13,9 +13,9 @@ Você pode conferir todos os meus projetos detalhados e interagir comigo direto 
 
 * **Linguagens:** HTML5, CSS3, JavaScript (ES6+), Python, TypeScript, C++, Kotlin
 * **Conceitos:** Desenvolvimento Mobile Nativo, Manipulação de DOM, Jogos Web, Interfaces Responsivas, Aplicações SPA, APIs REST
-* **Backend, Cloud & Hospedagem:** Firebase (Authentication, Firestore, Hosting), Render, Hostinger
-* **Ferramentas, IDEs & CMS:** Android Studio, WordPress, Git, GitHub, GitHub Pages
-
+* **Backend, Cloud & Bancos de Dados:** MySQL, Firebase (Authentication, Firestore, Hosting), Render, Hostinger
+* **DevOps & IA Aplicada:** Docker, Ollama, LM Studio, Odysseus AI, Devin AI
+* **Ferramentas, IDEs & CMS:** VS Code, PyCharm, Android Studio, WordPress, Git, GitHub, GitHub Pages
 
 ## 📂 Projetos em Destaque
 - 🃏 [Anime Card Creator](https://gabitob.github.io/Anime-Card-Creator/) - Crie suas próprias cartas de anime.
