@@ -49,9 +49,10 @@ Você pode conferir todos os meus projetos detalhados e interagir comigo direto 
   <img alt="Gabitob-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <strong>--</strong>
   <img alt="Gabitob-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"> <strong>--</strong>
   <img alt="Gabitob-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"> <strong>--</strong>
-  <img alt="Gabitob-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img alt="Gabitob-Kotlin" height="30" width="40" src="https://jsdelivr.net/icons/kotlin/kotlin-original.svg"> <strong>--</strong>
-  <img alt="Gabitob-Android" height="30" width="40" src="https://jsdelivr.net/icons/android/android-original.svg">
+  <img alt="Gabitob-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <strong>--</strong>
+  <img alt="Gabitob-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg"> <strong>--</strong>
+  <img alt="Gabitob-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kotlin/kotlin-original.svg"> <strong>--</strong>
+  <img alt="Gabitob-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/android/android-original.svg"> <strong>--</strong>
 
 </div>
 
