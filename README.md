@@ -12,12 +12,13 @@ Você pode conferir todos os meus projetos detalhados e interagir comigo direto 
 ### 🛠️ Tecnologias e Ferramentas
 
 * **Linguagens:** HTML5, CSS3, JavaScript (ES6+), Python, TypeScript, C++, Kotlin
-* **Conceitos:** Desenvolvimento Mobile Nativo, Manipulação de DOM, Jogos Web, Interfaces Responsivas, Aplicações SPA, APIs REST, Desenvolvimento de Bots (Discord)
+* **Conceitos:** Desenvolvimento Mobile Nativo, UI Declarativa (Jetpack Compose), Manipulação de DOM, Jogos Web, Interfaces Responsivas, Aplicações SPA, APIs REST, Desenvolvimento de Bots (Discord)
 * **Backend, Cloud & Bancos de Dados:** Node.js, MySQL, Firebase (Authentication, Firestore, Hosting), Render, Hostinger
 * **DevOps & IA Aplicada:** Docker, Ollama, LM Studio, Odysseus AI, Devin AI
 * **Ferramentas, IDEs & CMS:** VS Code, PyCharm, Android Studio, WordPress, Git, GitHub, GitHub Pages
 
 ## 📂 Projetos em Destaque
+- 🎵 [Motta Music](https://github.com/Gabitob/App-MusicaV3) - Aplicativo nativo para Android utilizando Jetpack Compose, Material Design 3 e estados reativos para gerenciamento de faixas musicais.
 - 🃏 [Anime Card Creator](https://gabitob.github.io/Anime-Card-Creator/) - Crie suas próprias cartas de anime.
 - 🧮 [Calculadora LDI](https://gabitob.github.io/Calculadora-LDI-Versao_Web/) - Ferramenta de cálculo ágil para Limites, Derivadas e Integrais.
 - 🎮 [Mouse Destroyer](https://gabitob.github.io/Mouse-Destroyer/) - Mini-game experimental.
@@ -49,6 +50,9 @@ Você pode conferir todos os meus projetos detalhados e interagir comigo direto 
   <img alt="Gabitob-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"> <strong>--</strong>
   <img alt="Gabitob-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"> <strong>--</strong>
   <img alt="Gabitob-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img alt="Gabitob-Kotlin" height="30" width="40" src="https://jsdelivr.net"> <strong>--</strong>
+  <img alt="Gabitob-Android" height="30" width="40" src="https://jsdelivr.net">
+
 </div>
 
 ---
