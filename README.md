@@ -9,15 +9,26 @@ Esse é meu canal do youtube: https://www.youtube.com/@MottaProg
 ## 🚀 Meu Portfólio Principal
 Você pode conferir todos os meus projetos detalhados e interagir comigo direto no meu **[Site Portfólio](https://gabitob.github.io/Site-Portifolio/)**.
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias & Competências
 
-* **Linguagens:** HTML5, CSS3, JavaScript (ES6+), Python, TypeScript, C++, Kotlin
-* **Conceitos:** Desenvolvimento Mobile Nativo, UI Declarativa (Jetpack Compose), Manipulação de DOM, Jogos Web, Interfaces Responsivas, Aplicações SPA, APIs REST, Desenvolvimento de Bots (Discord)
-* **Backend, Cloud & Bancos de Dados:** Node.js, MySQL, Firebase (Authentication, Firestore, Hosting), Render, Hostinger
-* **DevOps & IA Aplicada:** Docker, Ollama, LM Studio, Odysseus AI, Devin AI
-* **Ferramentas, IDEs & CMS:** VS Code, PyCharm, Android Studio, WordPress, Git, GitHub, GitHub Pages
+### 💻 Front-End & Mobile
+* **Linguagens:** HTML5, CSS3, JavaScript (ES6+), TypeScript, Kotlin
+* **Frameworks & UI:** React (Aplicações SPA), Jetpack Compose (UI Declarativa para Android Nativo)
+* **Conceitos:** Interfaces Responsivas, Manipulação avançada de DOM, SPA Architecture
+
+### ⚙️ Back-End & Bancos de Dados
+* **Linguagens & Ecossistema:** .NET 10.0 (C#), Python, Node.js, C++
+* **APIs & ORM:** ASP.NET Core Web API, Entity Framework Core, RESTful APIs, Scripts de Automação
+* **Bancos de Dados:** MySQL, SQLite, Firebase (Firestore, Authentication, Storage)
+
+### 🚀 DevOps, Cloud & IA Aplicada
+* **Infraestrutura & Deploy:** Docker, Render, Hostinger, GitHub Pages, Git/GitHub
+* **Inteligência Artificial:** Integração local e fluxos com Ollama, LM Studio, Odysseus AI, Devin AI
+* **Automações:** n8n (automação de fluxos de trabalho), Desenvolvimento de bots interativos para Discord
 
 ## 📂 Projetos em Destaque
+
+- 📂[Card Album](https://gabitob.github.io/Card-Album/) - Página para colecão de cards criados pelo Anime Card Creator. Possui salvamento automático na nuvem integrado ao Firebase Auth e Firestore.
 - 🎵 [Motta Music](https://github.com/Gabitob/App-MusicaV3) - Aplicativo nativo para Android utilizando Jetpack Compose, Material Design 3 e estados reativos para gerenciamento de faixas musicais.
 - 🃏 [Anime Card Creator](https://gabitob.github.io/Anime-Card-Creator/) - Crie suas próprias cartas de anime.
 - 🧮 [Calculadora LDI](https://gabitob.github.io/Calculadora-LDI-Versao_Web/) - Ferramenta de cálculo ágil para Limites, Derivadas e Integrais.
@@ -27,7 +38,6 @@ Você pode conferir todos os meus projetos detalhados e interagir comigo direto 
 - 🔍[Web Scraper](https://web-scraper-page.onrender.com) - Analiza página, coleta as informações e retorna os resultados para o usuário.
 - 🔢[Sudoku Generator](https://gabitob.github.io/Sudoku-Gen/) - Gera um sudoku aleatório e funcional para passar o tempo.
 - ゴ[Jojo Part 7 Page](https://gabitob.github.io/Jojo7-Countdown/) - Página interativa de contagem regressiva para lançamento de Jojo Parte 7.
-- 📂[Card Album](https://gabitob.github.io/Card-Album/) - Página para colecão de cards criados pelo Anime Card Creator. Possui salvamento automático na nuvem integrado ao Firebase Auth e Firestore.
 
 ---
 <div align="center">
