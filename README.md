@@ -1,6 +1,6 @@
 # Olá, sou Gabriel Motta!👋
 <br>
-Sou um desenvolvedor front-end focado em criar aplicações web interativas, jogos de navegador e ferramentas utilitárias visuais.
+Desenvolvedor Full-Stack focado em construir soluções modernas, escaláveis e interativas. Tenho experiência que vai desde o desenvolvimento mobile nativo até sistemas distribuídos com backends robustos em C# e Python, integração com bancos de dados em nuvem e uso aplicado de Inteligência Artificial.
 <br>
 Esse é meu canal do youtube: https://www.youtube.com/@MottaProg
 
