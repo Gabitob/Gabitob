@@ -1,30 +1,34 @@
-# Olá, sou Gabriel Motta!👋
-<br>
-Desenvolvedor Full-Stack focado em construir soluções modernas, escaláveis e interativas. Tenho experiência que vai desde o desenvolvimento mobile nativo até sistemas distribuídos com backends robustos em C# e Python, integração com bancos de dados em nuvem e uso aplicado de Inteligência Artificial.
-<br>
-Esse é meu canal do youtube: https://www.youtube.com/@MottaProg
+# Olá, sou Gabriel Motta 👋
+
+**Desenvolvedor Full-Stack** especializado na construção de arquiteturas escaláveis, APIs robustas e aplicações interativas. Minha atuação abrange todo o ciclo de desenvolvimento de software — desde interfaces web modernas e aplicativos mobile nativos até sistemas distribuídos, modelagem de bancos de dados relacionais e integração aplicada de Inteligência Artificial.
+
+🌐 **Portfólio Completo:** [gabitob.github.io/Site-Portifolio](https://gabitob.github.io/Site-Portifolio/)  
+🎥 **Criação de Conteúdo Técnico:** [YouTube (@MottaProg)](https://www.youtube.com/@MottaProg)
 
 ---
 
-## 🚀 Meu Portfólio Principal
-Você pode conferir todos os meus projetos detalhados e interagir comigo direto no meu **[Site Portfólio](https://gabitob.github.io/Site-Portifolio/)**.
+## 🛠️ Stack Tecnológica & Competências
 
-## 🛠️ Tecnologias & Competências
+### ⚙️ Back-End & Arquitetura de APIs
+* **Ecossistemas & Frameworks:** .NET 10.0 (C#), ASP.NET Core Web API, Laravel (PHP), Node.js, Python, C++
+* **Ferramentas & CLI:** Composer, Artisan, Entity Framework Core, Scripts de Automação
+* **Padrões & Documentação:** Arquitetura RESTful, OpenAPI / OpenSpec, Sistemas Distribuídos
 
-### 💻 Front-End & Mobile
-* **Linguagens:** HTML5, CSS3, JavaScript (ES6+), TypeScript, Kotlin
-* **Frameworks & UI:** React (Aplicações SPA), Jetpack Compose (UI Declarativa para Android Nativo)
-* **Conceitos:** Interfaces Responsivas, Manipulação avançada de DOM, SPA Architecture
+### 🗄️ Bancos de Dados & Persistência
+* **Relacionais:** PostgreSQL, MySQL, SQLite
+* **NoSQL & BaaS:** Firebase (Firestore, Authentication, Cloud Storage)
+* **Administração & Modelagem:** pgAdmin 4, otimização de consultas e estruturação de esquemas
 
-### ⚙️ Back-End & Bancos de Dados
-* **Linguagens & Ecossistema:** .NET 10.0 (C#), Python, Node.js, C++
-* **APIs & ORM:** ASP.NET Core Web API, Entity Framework Core, RESTful APIs, Scripts de Automação
-* **Bancos de Dados:** MySQL, SQLite, Firebase (Firestore, Authentication, Storage)
+### 💻 Front-End & Desenvolvimento Mobile
+* **Linguagens:** TypeScript, JavaScript (ES6+), Kotlin, HTML5, CSS3
+* **Frameworks & UI:** React (Arquitetura SPA), Jetpack Compose (Android Nativo Declarativo)
+* **Engenharia de Interface:** Design Responsivo, gerenciamento de estado e manipulação avançada de DOM
 
-### 🚀 DevOps, Cloud & IA Aplicada
-* **Infraestrutura & Deploy:** Docker, Render, Hostinger, GitHub Pages, Git/GitHub
-* **Inteligência Artificial:** Integração local e fluxos com Ollama, LM Studio, Odysseus AI, Devin AI
-* **Automações:** n8n (automação de fluxos de trabalho), Desenvolvimento de bots interativos para Discord
+### 🚀 DevOps, Cloud & Inteligência Artificial
+* **Infraestrutura & CI/CD:** Docker, Git / GitHub, Render, Hostinger, GitHub Pages
+* **Engenharia de IA:** Orquestração local e fluxos com Ollama, LM Studio, Odysseus AI e Devin AI
+* **Automação de Processos:** n8n (workflows orientados a eventos) e desenvolvimento de bots para Discord
+
 
 ## 📂 Projetos em Destaque
 
