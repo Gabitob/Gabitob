@@ -11,24 +11,26 @@
 ## 🛠️ Stack Tecnológica & Competências
 
 ### ⚙️ Back-End & Arquitetura de APIs
-* **Linguagens & Frameworks:** .NET 10.0 (C#), ASP.NET Core Web API, Laravel (PHP), Node.js, Python, C++
-* **Ecossistema & CLI:** Entity Framework Core, Composer, Artisan, Scripts de Automação
-* **Arquitetura & Padrões:** RESTful APIs, OpenAPI / OpenSpec, Sistemas Distribuídos
+* **Linguagens & Frameworks:** C# (.NET 10.0), ASP.NET Core Web API, PHP (Laravel), Node.js, Python, C++
+* **Ecossistema & Ferramentas:** Entity Framework Core, Composer, Artisan, CLI & Scripts de Automação
+* **Arquitetura & Padrões:** RESTful APIs, OpenAPI / Swagger, OpenSpec, Sistemas Distribuídos
 
 ### 💻 Front-End & Desenvolvimento Mobile
 * **Linguagens:** TypeScript, JavaScript (ES6+), Kotlin, HTML5, CSS3
-* **Frameworks & UI:** React, Vue.js, Jetpack Compose (Android Nativo)
-* **Fundamentos:** Arquitetura SPA, Design Responsivo e gerenciamento de estado
+* **Frameworks & UI:** React, Vue.js, Jetpack Compose (Android Nativo), Material Design 3
+* **Build, Qualidade & Ecossistema:** Vite, ESLint, npm
+* **Arquitetura & Fundamentos:** Single Page Applications (SPA), Design Responsivo, Gerenciamento de Estado Reativo
 
 ### 🗄️ Bancos de Dados & Persistência
-* **Relacionais:** PostgreSQL, MySQL, SQLite
+* **Relacionais (SQL):** PostgreSQL, MySQL, SQLite
 * **NoSQL & BaaS:** Firebase (Firestore, Authentication, Cloud Storage)
-* **Modelagem & Ferramentas:** DBeaver, pgAdmin 4, estruturação de esquemas e otimização de consultas
+* **Modelagem & Administração:** DBeaver, pgAdmin 4, Modelagem de Esquemas e Otimização de Consultas
 
 ### 🚀 DevOps, Cloud & Inteligência Artificial
-* **Infraestrutura & Servidores:** Docker, Apache, Git / GitHub, Render, Hostinger, GitHub Pages
-* **Engenharia de IA:** Orquestração local e pipelines com ComfyUI, Ollama, LM Studio, Odysseus AI e Devin AI
-* **Automação:** n8n (workflows orientados a eventos) e bots para Discord
+* **Infraestrutura, CI/CD & Deploy:** Docker, Apache, Git, GitHub Actions, Render, Hostinger, GitHub Pages
+* **Engenharia de IA & LLMs:** Orquestração local e pipelines com Ollama, LM Studio, ComfyUI, Odysseus AI e Devin AI
+* **Automação & Integrações:** n8n (workflows orientados a eventos) e desenvolvimento de Bots (Discord)
+
 
 ## 📂 Projetos em Destaque
 
