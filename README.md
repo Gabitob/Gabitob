@@ -4,7 +4,7 @@
 
 🌐 **Portfólio:** [gabitob.github.io/Site-Portifolio](https://gabitob.github.io/Site-Portifolio/)  
 🎥 **Conteúdo Técnico:** [YouTube (@MottaProg)](https://www.youtube.com/@MottaProg)  
-💼 **LinkedIn:** [https://br.linkedin.com/in/gabriel-araujo-motta-soares-b975b4248] • ✉️ **Contato:** [gabitob1234@gmail.com]
+💼 **LinkedIn:** https://br.linkedin.com/in/gabriel-araujo-motta-soares-b975b4248 • ✉️ **Contato:** gabitob1234@gmail.com
 
 ---
 
