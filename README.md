@@ -57,7 +57,7 @@
   <img alt="Gabitob-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"> <strong>--</strong>
   <img alt="Gabitob-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"> <strong>--</strong>
   <img alt="Gabitob-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <strong>--</strong>
-  <img alt="Gabitob-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg"> <strong>--</strong>
+  <img alt="Gabitob-Typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg"> <strong>--</strong>
   <img alt="Gabitob-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kotlin/kotlin-original.svg"> <strong>--</strong>
   <img alt="Gabitob-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/android/android-original.svg"> <strong>--</strong>
 
